@@ -7,3 +7,6 @@
 [submodule "Wireguard"]
 	path = Wireguard
 	url = git@github.com:NotBeCursed/Wireguard.git
+[submodule "TIG"]
+	path = TIG
+	url = git@github.com:NotBeCursed/TIG.git
