@@ -1,0 +1,3 @@
+[submodule "Notflix"]
+	path = Notflix
+	url = git@github.com:NotBeCursed/Notflix.git
