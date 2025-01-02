@@ -4,3 +4,6 @@
 [submodule "Hugo"]
 	path = Hugo
 	url = git@github.com:NotBeCursed/Hugo.git
+[submodule "Wireguard"]
+	path = Wireguard
+	url = git@github.com:NotBeCursed/Wireguard.git
