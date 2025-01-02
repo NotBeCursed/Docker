@@ -9,4 +9,8 @@ This repository is a collection of Docker Compose stacks designed to simplify th
 - [WireGuard Repository](https://github.com/NotBeCursed/Wireguard.git)
 - [Grafana/Telegraf/InfluxDB Repository](https://github.com/NotBeCursed/TIG.git)
 - [Nginx Proxy Manager Repository](https://github.com/NotBeCursed/NginxProxyManager.git)
-
+- [Homer Repository](https://github.com/NotBeCursed/Homer.git)
+- [Minecraft Server Repository](https://github.com/NotBeCursed/MinecraftServer.git)
+- [Ollama Web App Repository](https://github.com/NotBeCursed/Ollama-Web-App.git)
+- [Draw.io Repository](https://github.com/NotBeCursed/Draw.io.git)
+- [GLPI Repository](https://github.com/NotBeCursed/GLPI.git)

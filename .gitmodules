@@ -13,3 +13,18 @@
 [submodule "NginxProxyManager"]
 	path = NginxProxyManager
 	url = git@github.com:NotBeCursed/NginxProxyManager.git
+[submodule "Ollama-Web-App"]
+	path = Ollama-Web-App
+	url = git@github.com:NotBeCursed/Ollama-Web-App.git
+[submodule "Draw.io"]
+	path = Draw.io
+	url = git@github.com:NotBeCursed/Draw.io.git
+[submodule "GLPI"]
+	path = GLPI
+	url = git@github.com:NotBeCursed/GLPI.git
+[submodule "MinecraftServer"]
+	path = MinecraftServer
+	url = git@github.com:NotBeCursed/MinecraftServer.git
+[submodule "Homer"]
+	path = Homer
+	url = git@github.com:NotBeCursed/Homer.git
