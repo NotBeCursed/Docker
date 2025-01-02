@@ -10,3 +10,6 @@
 [submodule "TIG"]
 	path = TIG
 	url = git@github.com:NotBeCursed/TIG.git
+[submodule "NginxProxyManager"]
+	path = NginxProxyManager
+	url = git@github.com:NotBeCursed/NginxProxyManager.git
